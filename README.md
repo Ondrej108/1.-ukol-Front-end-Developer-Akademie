@@ -1,2 +1,2 @@
-# 1.-ukol-Front-end-Developer-Akademie
+# 1.-ukol Front-end-Developer Akademie
 zaklady html
